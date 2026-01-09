@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1763408112 source:c:\users\josef\downloads\ed2projeto\cliente.c
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	"cliente.h"
+
+1763408112 c:\users\josef\downloads\ed2projeto\cliente.h
+	<stdio.h>
+
+1763408112 source:c:\users\josef\downloads\ed2projeto\lista_clientes.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_clientes.h"
+
+1763408112 c:\users\josef\downloads\ed2projeto\lista_clientes.h
+	"cliente.h"
+
+1763408112 source:c:\users\josef\downloads\ed2projeto\nomes.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"nomes.h"
+
+1763408112 c:\users\josef\downloads\ed2projeto\nomes.h
+
+1763408112 source:c:\users\josef\downloads\ed2projeto\test_intercalacao.c
+	<io.h>
+	<unistd.h>
+	<limits.h>
+	<stdlib.h>
+	<stdio.h>
+	"ufftest.h"
+	"cliente.h"
+	"lista_clientes.h"
+	"nomes.h"
+	"intercalacao.h"
+
+1763408112 c:\users\josef\downloads\ed2projeto\ufftest.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1763408112 c:\users\josef\downloads\ed2projeto\intercalacao.h
+	"nomes.h"
+	"cliente.h"
+
